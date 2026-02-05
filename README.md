@@ -60,8 +60,8 @@ git add
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
+- [x] Jupiter
+- [x] Saturn
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
