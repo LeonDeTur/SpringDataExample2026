@@ -60,7 +60,7 @@ git add
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
+- [x] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
